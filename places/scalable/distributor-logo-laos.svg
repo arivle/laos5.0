@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="144.49777mm"
+   height="144.49777mm"
+   viewBox="0 0 511.99998 511.99998"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ikonLaos.svg"
+   inkscape:export-filename="/home/dallasarivle/Pictures/laos5.0/ikonLaos"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4239">
+      <path
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 631.99999,496.36221 a 256,256 0 0 1 -256,256 256,256 0 0 1 -256,-256 256,256 0 0 1 256,-256 256,256 0 0 1 256,256 z"
+         id="path4241"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-104.22359"
+     inkscape:cy="282.12619"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-134.28571,-190.36218)">
+    <circle
+       style="opacity:1;fill:#1fa465;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4138"
+       cx="390.28571"
+       cy="446.36218"
+       r="256"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/dallasarivle/Pictures/launcher_bfb.png" />
+    <path
+       style="fill:#f9f9f9;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 344.28571,628.0765 c 0,0 -129.22359,-81.20778 -16.56907,-261.60673 27.07644,-43.35878 82.93217,-74.94903 140.85479,-132.67899 17.0531,-16.99638 42.5505,100.48918 27.65856,154.81865 -14.91234,54.40388 -68.55474,93.06818 -88.63652,134.70972 -20.80768,43.14676 -11.65781,110.07731 13.8351,130.47163 0,0 -163.434,-40.84824 2.92439,-224.25553 23.58336,-26.00025 4.14769,-77.74369 4.14769,-77.74369 -165.54318,118.47258 -94.06132,282.19277 -84.21494,276.28494 z"
+       id="path4136"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscscc"
+       inkscape:export-filename="/home/dallasarivle/Pictures/launcher_bfb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-3.2142857,0.6428572)"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4140"
+       inkscape:export-filename="/home/dallasarivle/Pictures/launcher_bfb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 432.9668,649.61643 0,-21.78223 -4.43848,0 0,-2.50488 12.09961,0 0,2.50488 -4.27734,0 0,21.78223 -3.38379,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#ffffff;fill-opacity:1"
+         id="path4142"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 442.41504,649.61643 0.4541,-24.28711 3.31055,0 4.29199,19.70215 4.32129,-19.70215 3.31055,0 0.4541,24.28711 -2.73926,0 -0.26367,-17.65137 -4.11621,17.65137 -1.9043,0 -4.08691,-17.65137 -0.26368,17.65137 -2.76855,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#ffffff;fill-opacity:1"
+         id="path4144"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
