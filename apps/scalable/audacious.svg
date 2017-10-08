@@ -13,9 +13,9 @@
    id="svg4190"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="512"
-   height="512"
-   viewBox="0 0 512 512"
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
    sodipodi:docname="audacius.svg"
    inkscape:export-filename="/home/dallasarivle/Pictures/laos5.0/audacius.png"
    inkscape:export-xdpi="89.999992"
@@ -54,8 +54,7 @@
        y1="381.65344"
        x2="1057.1479"
        y2="1062.2444"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(6.2499998e-7,3.8867187e-6)" />
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -67,14 +66,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-height="713"
      id="namedview4192"
      showgrid="false"
-     inkscape:zoom="0.36438923"
-     inkscape:cx="-559.69341"
-     inkscape:cy="353.0747"
+     inkscape:zoom="4.1225935"
+     inkscape:cx="87.428694"
+     inkscape:cy="58.959332"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4190"
      fit-margin-top="0"
@@ -84,17 +83,17 @@
   <circle
      style="opacity:1;fill:url(#linearGradient4246);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4152"
-     cx="256"
-     cy="256"
-     r="256" />
+     cx="47.668224"
+     cy="48.089211"
+     r="45" />
   <circle
      style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4152-5"
-     cx="257.44867"
-     cy="257.80676"
-     r="137.99432" />
+     cx="47.922874"
+     cy="48.406807"
+     r="24.256815" />
   <g
-     transform="matrix(1.167981,0,0,1.0367644,-760.34134,-485.43925)"
+     transform="matrix(0.20530916,0,0,0.18224374,-130.98553,-82.241907)"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:180px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#007fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="flowRoot4256">
     <path
